@@ -1,0 +1,20 @@
+{
+  "<12345898912980192860912>": {
+    "provider_time": "2018-01-01T00:00:00Z",
+    "client_side_response_time": "2018-01-01T00:00:00Z",
+    "response_data": {
+      "begin": 1718644067034181,
+      "end": 1718644067035016,
+      "results_time": 0.000834668,
+      "is_cold": false,
+      "cold_start_var": null,
+      "container_id": "50fd38ff",
+      "result": {
+        "status": "success",
+        "data": {
+          "result": "Hello, World!"
+        }
+      }
+    }
+  }
+}
